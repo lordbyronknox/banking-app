@@ -1,0 +1,50 @@
+[
+{
+    "initials": "BK",
+    "firstname": "Byron",
+    "lastname": "Knox",
+    "passport": "123456789",
+    "email": "byron@mail.com",
+    "address": {
+        "street": "8 elm Street",
+        "suburb": "SomeSuburb",
+        "town": "ATown",
+        "city": "MyCity",
+        "code": "2043"
+    }, 
+    "profilepic": "profile_pic_man",
+    "pincode": "123456"
+},
+{
+    "initials": "JD",
+    "firstname": "John",
+    "lastname": "Doe",
+    "passport": "123456789",
+    "email": "john@mail.com",
+    "address": {
+        "street": "7 elm Street",
+        "suburb": "SomeSuburb",
+        "town": "ATown",
+        "city": "MyCity",
+        "code": "2043"
+    }, 
+    "profilepic": "profile_pic_man",
+    "pincode": "234567"
+},
+{
+    "initials": "Ad.",
+    "firstname": "ADMIN",
+    "lastname": "",
+    "passport": "",
+    "email": "",
+    "address": {
+        "street": "",
+        "suburb": "",
+        "town": "",
+        "city": "",
+        "code": ""
+    }, 
+    "profilepic": "profile_pic_default",
+    "pincode": "0000"
+}
+]
